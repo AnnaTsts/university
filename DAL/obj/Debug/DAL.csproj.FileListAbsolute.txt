@@ -1,0 +1,524 @@
+D:/EPAM/Project/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Project/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Project/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Project/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Project/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Project/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Project/Textagram/DAL/obj/Debug/DAL.pdb
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Копії проекту/Project/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project/Textagram/DAL/obj/Debug/DAL.pdb
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/DAL/obj/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/DAL/obj/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/DAL/obj/Debug/DAL.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/DAL.dll.config
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/DAL.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/DAL.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Owin.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EnvDTE.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/VSLangProj.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EnvDTE80.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/stdole.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CopyComplete
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/obj/Debug/DAL.dll
+D:/EPAM/Project/Project18.04.19/Textagram/DAL/obj/Debug/DAL.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/DAL.dll.config
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/DAL.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/DAL.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Owin.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EnvDTE.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/VSLangProj.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EnvDTE80.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/stdole.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.MSXML.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/EntityFramework.SqlServer.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Newtonsoft.Json.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/obj/Debug/DAL.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/DAL/obj/Debug/DAL.pdb
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/DAL.dll.config
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/DAL.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/DAL.pdb
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EntityFramework.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EntityFramework.SqlServer.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Newtonsoft.Json.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Owin.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EnvDTE.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/VSLangProj.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EnvDTE80.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.15.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Design.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.ComponentModelHost.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/stdole.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.VSHelp.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Framework.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Telemetry.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/System.Threading.Tasks.Dataflow.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.ProjectAggregator.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.GraphModel.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.RemoteControl.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.VisualStudio.Utilities.Internal.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.MSXML.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EntityFramework.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/EntityFramework.SqlServer.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Identity.Owin.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.Cookies.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.Owin.Security.OAuth.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Newtonsoft.Json.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/Microsoft.AspNet.Scaffolding.12.0.xml
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/EntityFramework.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/EntityFramework.SqlServer.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.AspNet.Identity.Owin.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.VisualStudio.Shell.Design.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/bin/Debug/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+/Users/Anna_home/Desktop/university.19/university/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/Anna_home/Desktop/university.19/university/DAL/obj/Debug/DAL.dll
+/Users/Anna_home/Desktop/university.19/university/DAL/obj/Debug/DAL.pdb

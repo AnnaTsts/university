@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BLL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="BusinessModels" t="Include">
+          <e p="MarkCalculation.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="BookDTO.cs" t="Include" />
+          <e p="MarkDTO.cs" t="Include" />
+          <e p="TagDTO.cs" t="Include" />
+          <e p="UserDTO.cs" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="IdentityOperations.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IAuthorService.cs" t="Include" />
+          <e p="IBookService.cs" t="Include" />
+          <e p="IServiceCreator.cs" t="Include" />
+          <e p="ITagService.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="AuthorService.cs" t="Include" />
+          <e p="BookService.cs" t="Include" />
+          <e p="ServiceCreator.cs" t="Include" />
+          <e p="TagService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DAL" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="EF" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+          <e p="IdentityContextInitializer.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="ApplicationRole.cs" t="Include" />
+          <e p="ApplicationUser.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+          <e p="Mark.cs" t="Include" />
+          <e p="Tag.cs" t="Include" />
+        </e>
+        <e p="Identity" t="Include">
+          <e p="ApplicationRoleManager.cs" t="Include" />
+          <e p="ApplicationUserManager.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IRepository.cs" t="Include" />
+          <e p="IUnitOfWork.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="BookRepository.cs" t="Include" />
+          <e p="MarkRepository.cs" t="Include" />
+          <e p="TagRepository.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Textagram" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="Startup.Auth.cs" t="Include" />
+          <e p="WebApiConfig.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="BookController.cs" t="Include" />
+          <e p="TagController.cs" t="Include" />
+          <e p="TestingController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="Filters" t="Include">
+          <e p="ModelValidationAttribute.cs" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="BookModel.cs" t="Include" />
+          <e p="RegisterModel.cs" t="Include" />
+          <e p="TagModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Providers" t="Include">
+          <e p="ApplicationOAuthProvider.cs" t="Include" />
+        </e>
+        <e p="Results" t="Include">
+          <e p="ChallengeResult.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Textagram.csproj" t="IncludeRecursive" />
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="Textagram.sln" t="IncludeFlat" />
+      <e p="Util" t="IncludeRecursive">
+        <e p="ApplicationProfile.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Ninject" t="Include">
+          <e p="NinjectDependencyResolver.cs" t="Include" />
+          <e p="NinjectDependencyScope.cs" t="Include" />
+          <e p="NinjectRegistrations.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Util.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Textagram.-1734917700.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e91c1025-4ada-4f60-bda8-feabc8d5238e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Util/ApplicationProfile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1555611646000" expanded="false" signature="6:176" ph="..." />
+                <marker date="1555611646000" expanded="true" signature="192:839" ph="{...}" />
+                <marker date="1555611646000" expanded="true" signature="251:837" ph="{...}" />
+                <marker date="1555611646000" expanded="true" signature="293:831" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Textagram/Results/ChallengeResult.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="23" selection-start-line="22" selection-end-line="23" />
+              <folding>
+                <marker date="1554580750000" expanded="false" signature="6:184" ph="..." />
+                <marker date="1554580750000" expanded="true" signature="213:954" ph="{...}" />
+                <marker date="1554580750000" expanded="true" signature="268:952" ph="{...}" />
+                <marker date="1554580750000" expanded="true" signature="353:458" ph="{...}" />
+                <marker date="1554580750000" expanded="true" signature="657:946" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Textagram/Controllers/BookController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <marker date="1555609146000" expanded="false" signature="6:273" ph="..." />
+                <marker date="1555609146000" expanded="true" signature="306:1638" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="402:1636" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="505:553" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="639:1059" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="705:780" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="810:884" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="1178:1440" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="1204:1301" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="1331:1405" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="1524:1544" ph="{...}" />
+                <marker date="1555609146000" expanded="true" signature="1610:1630" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BLL/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAL/App.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAL/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Dispose</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2AA69178-163B-46A3-BA03-2D8FFF3A3C86/15/ef386b83/IdentityDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Models/RegisterModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Models/BookModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Models/TagModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F167EEAA-AC77-4667-BBC0-AE49ABAAFF55/F/Mapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Filters/ModelValidationAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Results/ChallengeResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/App_Start/WebApiConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F47A4DB5-163D-4846-8985-15379BDC5C84/fd/3f2ac426/OwinContextExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/App_Start/Startup.Auth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Providers/ApplicationOAuthProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Controllers/BookController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Controllers/TestingController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Controllers/TagController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/ApplicationUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Tag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Mark.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/ApplicationRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Identity/ApplicationRoleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Identity/ApplicationUserManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/UserDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/BookDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/TagDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/MarkDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/MarkRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/TagRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/ApplicationProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/ServiceCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/BookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/IAuthorService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/IServiceCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/IBookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/ITagService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/BusinessModels/MarkCalculation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Infrastructure/IdentityOperations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/EF/IdentityContextInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/EF/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Textagram/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/Ninject/NinjectDependencyScope.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/Ninject/NinjectDependencyResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/Ninject/NinjectRegistrations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Textagram/App_Start/Startup.Auth.cs" />
+        <option value="$PROJECT_DIR$/Textagram/Controllers/TagController.cs" />
+        <option value="$PROJECT_DIR$/BLL/DTO/UserDTO.cs" />
+        <option value="$PROJECT_DIR$/Textagram/Controllers/Controller1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AssemblyExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BLL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BLL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BLL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assemblies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BLL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Projects" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Textagram" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Textagram" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="MONO_MANAGED_WATCHER" value="y" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Textagram/Textagram.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser url="http://127.0.0.1:5000/" start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e91c1025-4ada-4f60-bda8-feabc8d5238e" name="Default Changelist" comment="" />
+      <created>1558171277893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558171277893</updated>
+      <workItem from="1558171286519" duration="9239000" />
+      <workItem from="1558210571797" duration="3876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13115000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70843375" weight="0.28540772" />
+      <window_info id="Structure" order="1" sideWeight="0.29156625" side_tool="true" visible="true" weight="0.28540772" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="REST Client" order="8" weight="0.036144577" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="NuGet" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="TeamCity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="Errors In Solution" order="6" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DAL/Entities/Mark.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1555596368000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1555596368000" expanded="true" signature="120:585" ph="{...}" />
+            <marker date="1555596368000" expanded="true" signature="144:583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/EF/IdentityContextInitializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="21" column="98" lean-forward="true" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:116" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="134:2401" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="229:2399" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="302:2393" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1728:1795" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1845:2349" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1921:2312" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="2150:2294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Entities/ApplicationUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1555593838000" expanded="false" signature="6:164" ph="..." />
+            <marker date="1555593838000" expanded="true" signature="188:252" ph="{...}" />
+            <marker date="1555593838000" expanded="true" signature="238:250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Entities/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <marker date="1555595170000" expanded="false" signature="6:258" ph="..." />
+            <marker date="1555595170000" expanded="true" signature="282:884" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="306:882" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="334:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2AA69178-163B-46A3-BA03-2D8FFF3A3C86/15/ef386b83/IdentityDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/EF/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:94" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="112:1139" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="172:1137" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="258:278" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="317:430" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="648:1130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F167EEAA-AC77-4667-BBC0-AE49ABAAFF55/F/Mapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Models/TagModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1555600536000" expanded="false" signature="6:84" ph="..." />
+            <marker date="1555600536000" expanded="true" signature="140:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Repositories/MarkRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1555607504000" expanded="false" signature="6:197" ph="..." />
+            <marker date="1555607504000" expanded="true" signature="225:859" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="283:857" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="391:437" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="504:570" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="603:661" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="704:762" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="800:851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Models/BookModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <marker date="1555618342000" expanded="true" signature="6:84" ph="..." />
+            <marker date="1555618342000" expanded="true" signature="141:524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Interfaces/IBookService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <marker date="1555546324000" expanded="false" signature="6:130" ph="..." />
+            <marker date="1555546324000" expanded="true" signature="157:320" ph="{...}" />
+            <marker date="1555546324000" expanded="true" signature="193:318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Services/BookService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:236" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="260:1205" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="306:1203" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="394:436" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="487:897" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="591:807" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="681:754" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="937:1050" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1092:1197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Interfaces/IUserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <marker date="1555595170000" expanded="false" signature="6:138" ph="..." />
+            <marker date="1555595170000" expanded="true" signature="164:377" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="214:375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/App_Start/WebApiConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <marker date="1555536940000" expanded="false" signature="6:214" ph="..." />
+            <marker date="1555536940000" expanded="true" signature="235:1102" ph="{...}" />
+            <marker date="1555536940000" expanded="true" signature="274:1100" ph="{...}" />
+            <marker date="1555536940000" expanded="true" signature="342:1094" ph="{...}" />
+            <marker date="1555536940000" expanded="true" signature="365:506" ph="/* Конфигурация и службы Web API ... */" />
+            <marker date="1555536940000" expanded="true" signature="672:763" ph="/* var cors = new EnableCorsAttribute(&quot;*&quot;, &quot;*&quot;, &quot;*&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Interfaces/IServiceCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1555594840000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1555594840000" expanded="true" signature="141:253" ph="{...}" />
+            <marker date="1555594840000" expanded="true" signature="180:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Services/ServiceCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <marker date="1555595170000" expanded="false" signature="6:161" ph="..." />
+            <marker date="1555595170000" expanded="true" signature="185:400" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="237:398" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="308:392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F47A4DB5-163D-4846-8985-15379BDC5C84/fd/3f2ac426/OwinContextExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Models/RegisterModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:129" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="190:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Filters/ModelValidationAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1555595382000" expanded="false" signature="6:234" ph="..." />
+            <marker date="1555595382000" expanded="true" signature="331:792" ph="{...}" />
+            <marker date="1555595382000" expanded="true" signature="471:786" ph="{...}" />
+            <marker date="1555595382000" expanded="true" signature="540:726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Identity/ApplicationUserManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1555593690000" expanded="false" signature="6:168" ph="..." />
+            <marker date="1555593690000" expanded="true" signature="192:403" ph="{...}" />
+            <marker date="1555593690000" expanded="true" signature="265:401" ph="{...}" />
+            <marker date="1555593690000" expanded="true" signature="374:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Repositories/UnitOfWork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1555607504000" expanded="false" signature="6:266" ph="..." />
+            <marker date="1555607504000" expanded="true" signature="294:2718" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="338:2716" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="681:920" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="707:910" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="971:1210" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="997:1200" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1262:1343" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1387:1595" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1413:1585" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1640:1844" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1666:1834" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1888:2096" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="1914:2086" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2124:2174" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2313:2532" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2355:2522" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2400:2470" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2563:2610" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="2649:2710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Repositories/TagRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <marker date="1555607504000" expanded="false" signature="6:197" ph="..." />
+            <marker date="1555607504000" expanded="true" signature="225:857" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="284:855" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="391:437" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="502:567" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="604:663" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="705:762" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="799:849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Interfaces/IUnitOfWork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <marker date="1555607504000" expanded="false" signature="6:156" ph="..." />
+            <marker date="1555607504000" expanded="true" signature="183:533" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="232:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/TestingController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1555610326000" expanded="false" signature="6:233" ph="..." />
+            <marker date="1555610326000" expanded="true" signature="324:1426" ph="{...}" />
+            <marker date="1555610326000" expanded="true" signature="429:477" ph="{...}" />
+            <marker date="1555610326000" expanded="true" signature="551:756" ph="{...}" />
+            <marker date="1555610326000" expanded="true" signature="766:1147" ph="/* GET api/&lt;controller&gt;/5 ... */" />
+            <marker date="1555610326000" expanded="true" signature="1196:1216" ph="{...}" />
+            <marker date="1555610326000" expanded="true" signature="1307:1327" ph="{...}" />
+            <marker date="1555610326000" expanded="true" signature="1400:1420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/TagController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <marker date="1558179665705" expanded="false" signature="6:209" ph="..." />
+            <marker date="1558179665705" expanded="true" signature="320:1314" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="420:468" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="577:914" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="641:714" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="744:818" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="975:1023" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="1099:1119" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="1203:1223" ph="{...}" />
+            <marker date="1558179665705" expanded="true" signature="1288:1308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1555536934000" expanded="false" signature="6:130" ph="..." />
+            <marker date="1555536934000" expanded="true" signature="163:777" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="220:775" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="293:369" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="432:480" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="557:577" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="662:682" ph="{...}" />
+            <marker date="1555536934000" expanded="true" signature="749:769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:322" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="354:1399" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="456:1397" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="727:1391" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="841:978" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="995:1102" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1132:1206" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1251:1340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1554583026000" expanded="true" signature="6:101" ph="..." />
+            <marker date="1554583026000" expanded="true" signature="103:274" ph="/* Общие сведения об этой сборке предоставляются следующим набором ... */" />
+            <marker date="1554583026000" expanded="true" signature="567:800" ph="/* Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми ... */" />
+            <marker date="1554583026000" expanded="true" signature="990:1325" ph="/* Сведения о версии сборки состоят из следующих четырех значений: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/BusinessModels/MarkCalculation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <marker date="1555586318000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1555586318000" expanded="true" signature="165:484" ph="{...}" />
+            <marker date="1555586318000" expanded="true" signature="200:482" ph="{...}" />
+            <marker date="1555586318000" expanded="true" signature="260:476" ph="{...}" />
+            <marker date="1555586318000" expanded="true" signature="342:403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/DTO/BookDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <marker date="1555611646000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1555611646000" expanded="true" signature="154:599" ph="{...}" />
+            <marker date="1555611646000" expanded="true" signature="181:597" ph="{...}" />
+            <marker date="1555611646000" expanded="true" signature="212:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/DTO/MarkDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1554891454000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1554891454000" expanded="true" signature="154:354" ph="{...}" />
+            <marker date="1554891454000" expanded="true" signature="181:352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/DTO/UserDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="154:366" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="181:364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Interfaces/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1555607504000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1555607504000" expanded="true" signature="141:354" ph="{...}" />
+            <marker date="1555607504000" expanded="true" signature="201:352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Identity/ApplicationRoleManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1555595170000" expanded="false" signature="6:217" ph="..." />
+            <marker date="1555595170000" expanded="true" signature="241:446" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="314:444" ph="{...}" />
+            <marker date="1555595170000" expanded="true" signature="426:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555542960000" expanded="true" signature="6:101" ph="..." />
+            <marker date="1555542960000" expanded="true" signature="103:274" ph="/* Общие сведения об этой сборке предоставляются следующим набором ... */" />
+            <marker date="1555542960000" expanded="true" signature="569:802" ph="/* Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми ... */" />
+            <marker date="1555542960000" expanded="true" signature="992:1327" ph="/* Сведения о версии сборки состоят из следующих четырех значений: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/Ninject/NinjectDependencyResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <marker date="1555546302000" expanded="false" signature="6:166" ph="..." />
+            <marker date="1555546302000" expanded="true" signature="190:605" ph="{...}" />
+            <marker date="1555546302000" expanded="true" signature="281:603" ph="{...}" />
+            <marker date="1555546302000" expanded="true" signature="402:457" ph="{...}" />
+            <marker date="1555546302000" expanded="true" signature="503:597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Providers/ApplicationOAuthProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:235" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="345:2158" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="467:1508" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="493:1343" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="723:875" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1135:1185" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1373:1498" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1586:1866" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1689:1805" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1974:2152" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="2026:2091" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/App_Start/Startup.Auth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <marker date="1558179223339" expanded="false" signature="6:153" ph="..." />
+            <marker date="1558179223339" expanded="true" signature="209:1011" ph="{...}" />
+            <marker date="1558179223339" expanded="true" signature="419:870" ph="{...}" />
+            <marker date="1558179223339" expanded="true" signature="563:807" ph="{...}" />
+            <marker date="1558179223339" expanded="true" signature="920:1005" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1555503068000" expanded="false" signature="6:158" ph="..." />
+            <marker date="1555503068000" expanded="true" signature="231:450" ph="{...}" />
+            <marker date="1555503068000" expanded="true" signature="266:448" ph="{...}" />
+            <marker date="1555503068000" expanded="true" signature="323:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/Services/UserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1555596310000" expanded="false" signature="6:220" ph="..." />
+            <marker date="1555596310000" expanded="true" signature="244:1635" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="290:1633" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="384:432" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="512:1324" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="638:1167" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1184:1314" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1417:1543" ph="{...}" />
+            <marker date="1555596310000" expanded="true" signature="1575:1627" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/Ninject/NinjectDependencyScope.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1555546232000" expanded="false" signature="6:224" ph="..." />
+            <marker date="1555546232000" expanded="true" signature="248:1007" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="309:1005" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="425:484" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="536:611" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="677:752" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="782:999" ph="{...}" />
+            <marker date="1555546232000" expanded="true" signature="888:954" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/Ninject/NinjectRegistrations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1555598476000" expanded="false" signature="6:226" ph="..." />
+            <marker date="1555598476000" expanded="true" signature="250:623" ph="{...}" />
+            <marker date="1555598476000" expanded="true" signature="306:621" ph="{...}" />
+            <marker date="1555598476000" expanded="true" signature="348:615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/Controller1.cs" />
+    <entry file="file://$PROJECT_DIR$/Util/ApplicationProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1555611646000" expanded="false" signature="6:176" ph="..." />
+            <marker date="1555611646000" expanded="true" signature="192:839" ph="{...}" />
+            <marker date="1555611646000" expanded="true" signature="251:837" ph="{...}" />
+            <marker date="1555611646000" expanded="true" signature="293:831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Results/ChallengeResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <marker date="1554580750000" expanded="false" signature="6:184" ph="..." />
+            <marker date="1554580750000" expanded="true" signature="213:954" ph="{...}" />
+            <marker date="1554580750000" expanded="true" signature="268:952" ph="{...}" />
+            <marker date="1554580750000" expanded="true" signature="353:458" ph="{...}" />
+            <marker date="1554580750000" expanded="true" signature="657:946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Textagram/Controllers/BookController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1555609146000" expanded="false" signature="6:273" ph="..." />
+            <marker date="1555609146000" expanded="true" signature="306:1638" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="402:1636" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="505:553" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="639:1059" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="705:780" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="810:884" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="1178:1440" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="1204:1301" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="1331:1405" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="1524:1544" ph="{...}" />
+            <marker date="1555609146000" expanded="true" signature="1610:1630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/App.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

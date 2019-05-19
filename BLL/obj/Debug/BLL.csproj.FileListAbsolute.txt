@@ -1,0 +1,187 @@
+D:/EPAM/Project/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Project/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Project/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Project/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Project/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Project/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Project/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Project/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Project/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Project/Textagram/BLL/obj/Debug/BLL.pdb
+D:/EPAM/Project/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Project/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Project/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Project/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Project/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/obj/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Копії проекту/ProjectTryToAddAuth/Textagram/BLL/obj/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project15.04.19/Textagram/BLL/obj/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Копії проекту/Project17.04.19/Textagram/BLL/obj/Debug/BLL.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/BLL.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/BLL.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/DAL.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/EntityFramework.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/DAL.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/DAL.dll.config
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.pdb
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.xml
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/EntityFramework.xml
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CopyComplete
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/obj/Debug/BLL.dll
+D:/EPAM/Project/Project18.04.19/Textagram/BLL/obj/Debug/BLL.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/BLL.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/BLL.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/DAL.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/EntityFramework.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/DAL.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/DAL.dll.config
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.pdb
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/AutoMapper.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/System.ValueTuple.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/EntityFramework.xml
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/bin/Debug/ru/EntityFramework.resources.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/obj/Debug/BLL.dll
+/Users/Anna_home/Desktop/Project18.04.19/Textagram/BLL/obj/Debug/BLL.pdb
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/BLL.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/BLL.pdb
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/AutoMapper.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/DAL.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/System.ValueTuple.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/EntityFramework.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/DAL.pdb
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/DAL.dll.config
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/AutoMapper.pdb
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/AutoMapper.xml
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/System.ValueTuple.xml
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/EntityFramework.xml
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.Core.resources.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/bin/Debug/ru/EntityFramework.resources.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+/Users/Anna_home/Desktop/university.19/university/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/Anna_home/Desktop/university.19/university/BLL/obj/Debug/BLL.dll
+/Users/Anna_home/Desktop/university.19/university/BLL/obj/Debug/BLL.pdb

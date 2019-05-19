@@ -1,0 +1,23 @@
+using System.Collections.Generic;
+
+namespace BLL.DTO
+{
+    public class GroupDTO
+    {
+        public int Id { get; set; }
+        
+        public string Name { get; set; }
+
+        public virtual List<UserDTO> UsersDTO{ get; set; }
+        
+        public int SpecializationId { get; set; }
+        
+        public SpecializationDTO SpecializationDTO { get; set; }
+        
+        public virtual List<UserDTO> Students  {get; set; }
+        
+        public int FacultyId{ get; set; }
+        
+        public virtual FacultyDTO Faculty { get; set; }
+    }
+}
