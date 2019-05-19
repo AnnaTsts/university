@@ -10,7 +10,7 @@ namespace BLL.DTO
         
         public int SpecializationId { get; set; }
         
-        public SpecializationDTO Specialization { get; set; }
+        public virtual SpecializationDTO Specialization { get; set; }
         
         public virtual List<UserDTO> Students  {get; set; }
         

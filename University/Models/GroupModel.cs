@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Textagram.Models
 {
     public class GroupModel
@@ -9,5 +11,11 @@ namespace Textagram.Models
         public int FacultyId { get; set; }
 
         public virtual FacultyModel Faculty { get; set; } 
+        
+        public int SpecializationId { get; set; }
+        
+        public virtual SpecializationModel Specialization { get; set; }
+        
+        public virtual List<UserModel> Students  {get; set; }
     }
 }

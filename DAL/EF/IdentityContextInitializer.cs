@@ -16,7 +16,7 @@ namespace DAL.EF
             Chair chair = new Chair{Name = "ASOIY",Faculty = faculty};
             Chair chair2 = new Chair{Name = "OT",Faculty = faculty};
             
-            Specialization specialization = new Specialization{Name = "121 Program Ingeniryng"};
+            Specialization specialization = new Specialization{Name = "121 Program"};
             Group group = new Group{Name = "IP-61",Specialization = specialization};
 
             Subject subject =new Subject{Name = "Math"};
@@ -28,8 +28,7 @@ namespace DAL.EF
             TeacherSubject tc = new TeacherSubject {Teacher =teacher,Group = group,Subject = subject};
             
             StudentsMark studentsMark =new StudentsMark{TeacherSubject = tc,Student = student,Mark=100};
-
-            group.Specialization = specialization;
+            
             group.Faculty = faculty;
             group.Students = new List<ApplicationUser>{student};
                 
@@ -66,8 +65,8 @@ namespace DAL.EF
             context.Chairs.Add(chair);
             context.Chairs.Add(chair2);
             context.Facultys.Add(faculty);
-            context.Groups.Add(group);
             context.Specializations.Add(specialization);
+            context.Groups.Add(group);
             context.ApplicationUsers.Add(student);
             context.ApplicationUsers.Add(teacher);
             context.StudentsMarks.Add(studentsMark);

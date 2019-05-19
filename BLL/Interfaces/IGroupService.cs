@@ -10,6 +10,7 @@ namespace BLL.Interfaces
         GroupDTO GetGrop(int id);
         
         void Insert(GroupDTO group);
+        
 
     }
 }
