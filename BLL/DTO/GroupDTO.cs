@@ -7,12 +7,10 @@ namespace BLL.DTO
         public int Id { get; set; }
         
         public string Name { get; set; }
-
-        public virtual List<UserDTO> UsersDTO{ get; set; }
         
         public int SpecializationId { get; set; }
         
-        public SpecializationDTO SpecializationDTO { get; set; }
+        public SpecializationDTO Specialization { get; set; }
         
         public virtual List<UserDTO> Students  {get; set; }
         

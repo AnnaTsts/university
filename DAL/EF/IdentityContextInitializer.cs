@@ -21,8 +21,8 @@ namespace DAL.EF
 
             Subject subject =new Subject{Name = "Math"};
             
-            ApplicationUser teacher= new ApplicationUser{FirstName = "Ivan",SecondName = "Ivanov",Chair = chair,Email = "iv@iv", Group = group};
-            ApplicationUser student= new ApplicationUser{FirstName = "Petro",SecondName = "Petrov",Chair = chair,Email = "petr@petrov",Group = group};
+            ApplicationUser teacher= new ApplicationUser{UserName = "kek",FirstName = "Ivan",SecondName = "Ivanov",Chair = chair,Email = "iv@iv", Group = group};
+            ApplicationUser student= new ApplicationUser{UserName = "Lol",FirstName = "Petro",SecondName = "Petrov",Chair = chair,Email = "petr@petrov",Group = group};
 
 
             TeacherSubject tc = new TeacherSubject {Teacher =teacher,Group = group,Subject = subject};
@@ -45,23 +45,23 @@ namespace DAL.EF
             //Tag soul = new Tag { Id = 1, Name = "soul" , Books = new List<Book> { Moon } };
             Tag soul = new Tag { Name = "soul", Books = new List<Book> { Moon, Sf } };
 
-            ApplicationUser andr = new ApplicationUser {  Email = "a@a.com" , UserName = "shatr"};
-            ApplicationUser vania = new ApplicationUser {  Email = "v@v.com", UserName = "shava"};
+           // ApplicationUser andr = new ApplicationUser {  FirstName = "dgs" , SecondName = "eeee",Email = "a@a.com" , UserName = "shatr"};
+           // ApplicationUser vania = new ApplicationUser { FirstName = "dgs", SecondName = "ee", Email = "v@v.com", UserName = "shava"};
 
-            Mark andrMoon = new Mark { ApplicationUser = andr, Book = Moon, Value = 10 };
-
-
-            Moon.ApplicationUser = andr;
-            Sao.ApplicationUser = andr;
-            Rihter.ApplicationUser = vania;
-            Sf.ApplicationUser = vania;
+           // Mark andrMoon = new Mark { ApplicationUser = andr, Book = Moon, Value = 10 };
 
 
-            context.Books.AddRange(new List<Book> { Moon, Sao, Rihter, Sf });
-            context.Marks.Add(andrMoon);
-            context.Tags.AddRange(new List<Tag> { adv, science, soul });
-            context.Users.Add(andr);
-            context.Users.Add(vania);
+           // Moon.ApplicationUser = andr;
+           // Sao.ApplicationUser = andr;
+           // Rihter.ApplicationUser = vania;
+           // Sf.ApplicationUser = vania;
+
+
+           // context.Books.AddRange(new List<Book> { Moon, Sao, Rihter, Sf });
+           // context.Marks.Add(andrMoon);
+           // context.Tags.AddRange(new List<Tag> { adv, science, soul });
+           // context.Users.Add(andr);
+           // context.Users.Add(vania);
 
             context.Chairs.Add(chair);
             context.Chairs.Add(chair2);

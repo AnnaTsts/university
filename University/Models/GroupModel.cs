@@ -8,6 +8,6 @@ namespace Textagram.Models
 
         public int FacultyId { get; set; }
 
-        public virtual FacultyModel FacultyModel { get; set; } 
+        public virtual FacultyModel Faculty { get; set; } 
     }
 }

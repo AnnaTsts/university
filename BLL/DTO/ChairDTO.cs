@@ -10,6 +10,6 @@ namespace BLL.DTO
 
         public int FacultyId { get; set; }
 
-        public virtual FacultyDTO FacultyDTO { get; set; } 
+        public virtual FacultyDTO Faculty { get; set; } 
     }
 }

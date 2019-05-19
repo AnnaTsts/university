@@ -30,7 +30,13 @@ namespace Textagram.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.Source);
+                Console.WriteLine(ex.Data);
+                Console.WriteLine(ex.HelpLink);
+                Console.WriteLine(ex.InnerException);
                 return InternalServerError(ex);
+                
             }
             Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups);
             return Ok(Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups));
