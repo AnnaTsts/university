@@ -12,7 +12,7 @@ using Util;
 using Util.Ninject;
 
 
-namespace Textagram
+namespace University
 {
     public class WebApiApplication : System.Web.HttpApplication
     {

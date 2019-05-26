@@ -4,9 +4,9 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using System;
 using Microsoft.Owin;
-using Textagram.Providers;
+using University.Providers;
 
-namespace Textagram
+namespace University
 {
     public partial class Startup
     {

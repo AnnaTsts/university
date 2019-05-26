@@ -147,3 +147,33 @@ C:\Users\Admin\RiderProjects\university\Util\obj\Debug\Util.csproj.CoreCompileIn
 C:\Users\Admin\RiderProjects\university\Util\obj\Debug\Util.csproj.CopyComplete
 C:\Users\Admin\RiderProjects\university\Util\obj\Debug\Util.dll
 C:\Users\Admin\RiderProjects\university\Util\obj\Debug\Util.pdb
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Util.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Util.pdb
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\AutoMapper.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\BLL.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\DAL.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Ninject.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\EntityFramework.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\BLL.pdb
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\DAL.pdb
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\DAL.dll.config
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\AutoMapper.pdb
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\AutoMapper.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Ninject.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\EntityFramework.xml
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Admin\RiderProjects\university new\Util\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\RiderProjects\university new\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\university new\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\university new\Util\obj\Debug\Util.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\university new\Util\obj\Debug\Util.dll
+C:\Users\Admin\RiderProjects\university new\Util\obj\Debug\Util.pdb

@@ -80,15 +80,12 @@
     <Compile Include="EF\IdentityContextInitializer.cs" />
     <Compile Include="Entities\ApplicationRole.cs" />
     <Compile Include="Entities\ApplicationUser.cs" />
-    <Compile Include="Entities\Book.cs" />
     <Compile Include="Entities\Chair.cs" />
     <Compile Include="Entities\Faculty.cs" />
     <Compile Include="Entities\Group.cs" />
-    <Compile Include="Entities\Mark.cs" />
     <Compile Include="Entities\Specialization.cs" />
     <Compile Include="Entities\StudentsMark.cs" />
     <Compile Include="Entities\Subject.cs" />
-    <Compile Include="Entities\Tag.cs" />
     <Compile Include="Entities\TeacherSubject.cs" />
     <Compile Include="Identity\ApplicationRoleManager.cs" />
     <Compile Include="Identity\ApplicationUserManager.cs" />
@@ -98,14 +95,11 @@
     <Compile Include="Repositories\ChairRepository.cs" />
     <Compile Include="Repositories\FacultyRepository.cs" />
     <Compile Include="Repositories\GroupRepository.cs" />
-    <Compile Include="Repositories\MarkRepository.cs" />
     <Compile Include="Repositories\SpecializationRepository.cs" />
     <Compile Include="Repositories\StudentsMarkRepository.cs" />
     <Compile Include="Repositories\SubjectRepository.cs" />
-    <Compile Include="Repositories\TagRepository.cs" />
     <Compile Include="Repositories\TeacherSubjectRepository.cs" />
     <Compile Include="Repositories\UnitOfWork.cs" />
-    <Compile Include="Repositories\BookRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

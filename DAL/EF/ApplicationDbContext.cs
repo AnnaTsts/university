@@ -16,10 +16,6 @@ namespace DAL.EF
         {
             Database.SetInitializer<ApplicationDbContext>(new IdentityContextInitializer());
         }
-
-        public DbSet<Book> Books { get; set; }
-        public DbSet<Tag> Tags { get; set; }
-        public DbSet<Mark> Marks { get; set; }
         
         
         public DbSet<Chair> Chairs { get; set; }
@@ -55,13 +51,8 @@ namespace DAL.EF
             modelBuilder.Entity<TeacherSubject>().ToTable("TeacherSubject");
             modelBuilder.Entity<ApplicationUser>().ToTable("User");
             
-            modelBuilder.Entity<Book>().ToTable("Book");
-            modelBuilder.Entity<Tag>().ToTable("Tag");
-            modelBuilder.Entity<Mark>().ToTable("Mark");
 
-
-            //modelBuilder.Entity<Book>().HasMany(b => b.)
-            modelBuilder.Entity<Book>().HasMany(b => b.Marks).WithRequired(m => m.Book).WillCascadeOnDelete(false);
+            
             modelBuilder.Entity<Group>().HasMany(g=>g.Students).WithRequired(u=>u.Group).WillCascadeOnDelete(false);
             modelBuilder.Entity<StudentsMark>().Property(sm => sm.Date).HasColumnType("datetime2");
             modelBuilder.Entity<TeacherSubject>().Property(ts => ts.StartTime).HasColumnType("datetime2");

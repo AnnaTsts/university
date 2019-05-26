@@ -8,7 +8,7 @@ using System.Web.Http.Cors;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 
-namespace Textagram
+namespace University
 {
     public static class WebApiConfig
     {

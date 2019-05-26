@@ -19,9 +19,7 @@ namespace BLL.Services
         
         public IEnumerable<GroupDTO> GetAllGroups()
         {
-            Console.WriteLine("Get All Group in service");
             IEnumerable<Group> groups = db.Groups.GetAll();
-            Console.WriteLine("Get All Group from bd done ");
             return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
         }
 
@@ -36,6 +34,18 @@ namespace BLL.Services
         {
             db.Groups.Insert(Mapper.Map<GroupDTO, Group>(group));
             db.Save();
+        }
+
+        public IEnumerable<GroupDTO> GetGroupByFaculty(int facultyId)
+        {
+            var groups = db.Groups.Find((gr) => gr.FacultyId == facultyId);
+            return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
+        }
+
+        public IEnumerable<GroupDTO> GetGroupBySpecialization(int specialization)
+        {
+            var groups = db.Groups.Find((gr) => gr.SpecializationId == specialization);
+            return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
         }
 
 

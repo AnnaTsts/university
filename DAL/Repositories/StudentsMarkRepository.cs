@@ -36,5 +36,8 @@ namespace DAL.Repositories
             db.StudentsMarks.Add(obj);
         }
         
+
+
+        
     }
 }

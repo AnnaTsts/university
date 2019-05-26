@@ -6,9 +6,9 @@ using Owin;
 using System.Web.Http.Cors;
 using System.Threading.Tasks;
 
-[assembly: OwinStartup(typeof(Textagram.Startup))]
+[assembly: OwinStartup(typeof(University.Startup))]
 
-namespace Textagram
+namespace University
 {
     public partial class Startup
     {

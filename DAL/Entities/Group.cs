@@ -16,7 +16,7 @@ namespace DAL.Entities
         public int SpecializationId { get; set; }
         
         [ForeignKey("SpecializationId")]
-        public Specialization Specialization { get; set; }
+        public virtual Specialization Specialization { get; set; }
         
         public virtual List<ApplicationUser> Students  {get; set; }
         

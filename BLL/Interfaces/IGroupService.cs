@@ -10,7 +10,10 @@ namespace BLL.Interfaces
         GroupDTO GetGrop(int id);
         
         void Insert(GroupDTO group);
-        
+        IEnumerable<GroupDTO> GetGroupByFaculty(int facultyId);
 
+        IEnumerable<GroupDTO> GetGroupBySpecialization(int specialization);
+        
+        
     }
 }

@@ -17,7 +17,8 @@ namespace DAL.EF
             Chair chair2 = new Chair{Name = "OT",Faculty = faculty};
             
             Specialization specialization = new Specialization{Name = "121 Program"};
-            Group group = new Group{Name = "IP-61",Specialization = specialization};
+            Specialization sp = new Specialization{Name = "keeeeeek"};
+            Group group = new Group{Name = "IP-61",Specialization = sp};
 
             Subject subject =new Subject{Name = "Math"};
             
@@ -34,15 +35,7 @@ namespace DAL.EF
                 
 
 
-            Book Moon = new Book { Name = "Moon", Text = "legendary"};
-            Book Sao = new Book { Name = "Sao", Text = "sword"};
-            Book Rihter = new Book { Name = "Rihter", Text = "sharp"};
-            Book Sf = new Book { Name = "Shadow", Text = "sfdot"};
-
-            Tag adv = new Tag { Name = "adventure", Books = new List<Book> { Moon, Sao } };
-            Tag science = new Tag { Name = "science", Books = new List<Book> { Rihter, Moon } };
-            //Tag soul = new Tag { Id = 1, Name = "soul" , Books = new List<Book> { Moon } };
-            Tag soul = new Tag { Name = "soul", Books = new List<Book> { Moon, Sf } };
+           
 
            // ApplicationUser andr = new ApplicationUser {  FirstName = "dgs" , SecondName = "eeee",Email = "a@a.com" , UserName = "shatr"};
            // ApplicationUser vania = new ApplicationUser { FirstName = "dgs", SecondName = "ee", Email = "v@v.com", UserName = "shava"};
@@ -66,6 +59,7 @@ namespace DAL.EF
             context.Chairs.Add(chair2);
             context.Facultys.Add(faculty);
             context.Specializations.Add(specialization);
+            context.Specializations.Add(sp);
             context.Groups.Add(group);
             context.ApplicationUsers.Add(student);
             context.ApplicationUsers.Add(teacher);

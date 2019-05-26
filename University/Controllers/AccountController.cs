@@ -5,7 +5,7 @@ using Microsoft.Owin.Security;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Http;
-using Textagram.Models;
+using University.Models;
 using System.Web;
 using System.Net.Http;
 using Microsoft.AspNet.Identity.Owin;

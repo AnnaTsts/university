@@ -4,9 +4,9 @@ using System.Web.Http;
 using AutoMapper;
 using BLL.DTO;
 using BLL.Interfaces;
-using Textagram.Models;
+using University.Models;
 
-namespace Textagram.Controllers
+namespace University.Controllers
 {
     
     [RoutePrefix("api/Group")]
@@ -20,7 +20,7 @@ namespace Textagram.Controllers
         }
         
         [HttpGet]
-        public IHttpActionResult GetAllBooks()
+        public IHttpActionResult GetAllGroups()
         {
             Console.WriteLine("Get All Group");
             IEnumerable<GroupDTO> groups;
@@ -30,11 +30,6 @@ namespace Textagram.Controllers
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.Source);
-                Console.WriteLine(ex.Data);
-                Console.WriteLine(ex.HelpLink);
-                Console.WriteLine(ex.InnerException);
                 return InternalServerError(ex);
                 
             }
@@ -46,21 +41,10 @@ namespace Textagram.Controllers
         {
             try
             {
-                GroupDTO groupDto = Mapper.Map<GroupModel, GroupDTO>(model);
-                Console.WriteLine("Its corect");
-                //Console.WriteLine(groupDto.Specialization);
-                Console.WriteLine(groupDto.Faculty);
-               // Console.WriteLine(groupDto.Students);
-                
                 service.Insert(Mapper.Map<GroupModel,GroupDTO>(model));
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.Source);
-                Console.WriteLine(ex.Data);
-                Console.WriteLine(ex.HelpLink);
-                Console.WriteLine(ex.InnerException);
                 return InternalServerError(ex);
             }
             return Ok();

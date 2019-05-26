@@ -15,14 +15,9 @@ namespace Util.Ninject
     {
         public override void Load()
         {
-            Bind<IBookService>().To<BookService>();
-            Bind<IAuthorService>().To<AuthorService>();
-            Bind<ITagService>().To<TagService>();
 
             Bind<IGroupService>().To<GroupService>();
             
-
-
             Bind<IUnitOfWork>().To<UnitOfWork>().WithConstructorArgument("Proj1704");
         }
     }

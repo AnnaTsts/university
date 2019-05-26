@@ -12,10 +12,7 @@ namespace DAL.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {
-        IRepository<Book,int> Books { get; }
-        IRepository<Tag,string> Tags { get; }
-        IRepository<Mark,int> Marks { get; }
-        
+
         IRepository<Chair,int> Chairs { get; }
         
         IRepository<Faculty,int> Faculties { get; }

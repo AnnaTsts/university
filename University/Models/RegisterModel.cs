@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace Textagram.Models
+namespace University.Models
 {
     public class RegisterModel
     {

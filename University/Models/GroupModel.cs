@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Textagram.Models
+namespace University.Models
 {
     public class GroupModel
     {

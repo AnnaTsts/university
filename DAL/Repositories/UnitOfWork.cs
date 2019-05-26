@@ -15,10 +15,6 @@ namespace DAL.Repositories
     public class UnitOfWork : IUnitOfWork
     {
         private ApplicationDbContext db;
-        private BookRepository bookRepository;
-
-        private TagRepository tagRepository;
-        private MarkRepository markRepository;
 
         private ApplicationUserManager userManager;
         private ApplicationRoleManager roleManager;
@@ -56,37 +52,7 @@ namespace DAL.Repositories
         {
             db = new ApplicationDbContext(connectionString);
         }
-
-        public IRepository<Book, int> Books
-        {
-            get
-            {
-                if (bookRepository == null)
-                    bookRepository = new BookRepository(db);
-                return bookRepository;
-            }
-        }
-
-        public IRepository<Tag, string> Tags
-        {
-            get
-            {
-                if (tagRepository == null)
-                    tagRepository = new TagRepository(db);
-                return tagRepository;
-            }
-        }
-
-        public IRepository<Mark, int> Marks
-        {
-            get
-            {
-                if (markRepository == null)
-                    markRepository = new MarkRepository(db);
-                return markRepository;
-            }
-        }
-
+        
         public IRepository<Chair, int> Chairs
         {
             get

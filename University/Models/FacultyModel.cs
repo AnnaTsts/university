@@ -1,4 +1,4 @@
-namespace Textagram.Models
+namespace University.Models
 {
     public class FacultyModel
     {
