@@ -22,7 +22,7 @@ namespace BLL.DTO
         
         public int GroupId  {get; set; }
 
-        public virtual GroupDTO Group  {get; set; }
+      //  public virtual GroupDTO Group  {get; set; }
         
     }
 }

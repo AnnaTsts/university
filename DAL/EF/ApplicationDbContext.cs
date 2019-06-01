@@ -55,8 +55,8 @@ namespace DAL.EF
             
             modelBuilder.Entity<Group>().HasMany(g=>g.Students).WithRequired(u=>u.Group).WillCascadeOnDelete(false);
             modelBuilder.Entity<StudentsMark>().Property(sm => sm.Date).HasColumnType("datetime2");
-            modelBuilder.Entity<TeacherSubject>().Property(ts => ts.StartTime).HasColumnType("datetime2");
-            modelBuilder.Entity<TeacherSubject>().Property(ts => ts.EndTime).HasColumnType("datetime2");
+            //modelBuilder.Entity<TeacherSubject>().Property(ts => ts.StartTime).HasColumnType("datetime2");
+           // modelBuilder.Entity<TeacherSubject>().Property(ts => ts.EndTime).HasColumnType("datetime2");
             
         }
         

@@ -14,6 +14,12 @@ namespace University.Models
        // public virtual Chair Chair { get; set; }
         
       //  public int GroupId  {get; set; }
+      public int ChairId { get; set; }
         
+      public virtual ChairModel Chair { get; set; }
+        
+      public int GroupId  {get; set; }
+
+     // public virtual GroupModel Group  {get; set; }
     }
 }

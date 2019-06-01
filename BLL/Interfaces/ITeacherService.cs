@@ -8,5 +8,7 @@ namespace BLL.Interfaces
         IEnumerable<TeacherSubjectDTO> GetAllSubjectByTeacher(string teacherId);
 
         void Insert(TeacherSubjectDTO teacherSubjectDto);
+
+        IEnumerable<TeacherSubjectDTO> GetAllSubject();
     }
 }

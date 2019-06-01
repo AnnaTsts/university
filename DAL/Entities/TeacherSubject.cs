@@ -21,20 +21,15 @@ namespace DAL.Entities
         [Column(Order = 4)]
         public int GroupId{ get; set; }
         
-        [Required]
-        public DateTime StartTime { get; set; }
-        
-        [Required]
-        public DateTime EndTime { get; set; }
         
         [ForeignKey("TeacherId")]
-        public ApplicationUser Teacher { get; set; }
+        public virtual ApplicationUser Teacher { get; set; }
         
         [ForeignKey("GroupId")]
-        public Group Group { get; set; }
+        public virtual Group Group { get; set; }
         
         [ForeignKey("SubjectId")]
-        public Subject Subject { get; set; }
+        public virtual Subject Subject { get; set; }
 
     }
 }

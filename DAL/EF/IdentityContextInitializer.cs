@@ -20,13 +20,16 @@ namespace DAL.EF
             Specialization sp = new Specialization{Name = "keeeeeek"};
             Group group = new Group{Name = "IP-61",Specialization = sp};
 
+            
             Subject subject =new Subject{Name = "Math"};
             
-            ApplicationUser teacher= new ApplicationUser{UserName = "kek",FirstName = "Ivan",SecondName = "Ivanov",Chair = chair,Email = "iv@iv", Group = group};
-            ApplicationUser student= new ApplicationUser{UserName = "Lol",FirstName = "Petro",SecondName = "Petrov",Chair = chair,Email = "petr@petrov",Group = group};
+            ApplicationUser teacher= new ApplicationUser{UserName = "teacher",FirstName = "Ivan",SecondName = "Ivanov",Chair = chair,Email = "iv@iv"};
+            ApplicationUser student= new ApplicationUser{UserName = "student",FirstName = "Petro",SecondName = "Petrov",Chair = chair,Email = "petr@petrov"};
 
 
-            TeacherSubject tc = new TeacherSubject {Teacher =teacher,Group = group,Subject = subject};
+            TeacherSubject tc = new TeacherSubject {TeacherId =teacher.Id,SubjectId = subject.Id,GroupId = group.Id,Teacher =teacher,Group = group,Subject = subject};
+            
+            
             
             StudentsMark studentsMark =new StudentsMark{TeacherSubject = tc,Student = student,Mark=100};
             
@@ -34,6 +37,7 @@ namespace DAL.EF
             group.Students = new List<ApplicationUser>{student};
                 
 
+            
 
            
 
@@ -55,6 +59,7 @@ namespace DAL.EF
            // context.Users.Add(andr);
            // context.Users.Add(vania);
 
+           context.Subjects.Add(subject);
             context.Chairs.Add(chair);
             context.Chairs.Add(chair2);
             context.Facultys.Add(faculty);
@@ -65,7 +70,7 @@ namespace DAL.EF
             context.ApplicationUsers.Add(teacher);
             context.StudentsMarks.Add(studentsMark);
             context.TeacherSubjects.Add(tc);
-
+            
             
             
 

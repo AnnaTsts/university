@@ -16,7 +16,7 @@ namespace DAL.Entities
         public int TeacherSubjectId { get; set; }
         
         [ForeignKey("TeacherSubjectId")]
-        public TeacherSubject TeacherSubject{ get; set; }
+        public virtual TeacherSubject TeacherSubject{ get; set; }
 
         [Required]
         public double Mark { get; set; }

@@ -7,6 +7,11 @@ namespace DAL.Entities
 {
     public class Group
     {
+        public Group()
+        {
+            List<ApplicationUser> Students = new List<ApplicationUser>();
+        }
+
         [Key]
         public int Id { get; set; }
         

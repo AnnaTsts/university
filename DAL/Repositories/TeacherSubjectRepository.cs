@@ -28,7 +28,9 @@ namespace DAL.Repositories
 
         public IEnumerable<TeacherSubject> GetAll()
         {
+            //Console.WriteLine("start");
             return db.TeacherSubjects.ToList();
+            
         }
 
         public void Insert(TeacherSubject obj)

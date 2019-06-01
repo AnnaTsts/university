@@ -109,9 +109,16 @@ namespace DAL.Repositories
                 subjectRepository = new SubjectRepository(db);
             return subjectRepository;
         } }
-        public IRepository<TeacherSubject, int> TeacherSubjects { get; }
+        public IRepository<TeacherSubject, int> TeacherSubjects {get
+        {
+            if (teacherSubjectRepository == null)
+                teacherSubjectRepository = new TeacherSubjectRepository(db);
+            return teacherSubjectRepository;
+        } }
 
 
+        
+        
         public void Save()
         {
             db.SaveChanges();

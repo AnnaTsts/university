@@ -18,7 +18,9 @@ namespace University
             // Настройка Web API для использования только проверки подлинности посредством маркера-носителя.
             config.SuppressDefaultHostAuthentication();
             config.Filters.Add(new HostAuthenticationFilter(OAuthDefaults.AuthenticationType));
-
+            
+            
+            
             //var cors = new EnableCorsAttribute("*", "*", "*");
             //config.EnableCors(cors);
             config.EnableCors();

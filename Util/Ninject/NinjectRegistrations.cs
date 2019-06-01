@@ -17,8 +17,14 @@ namespace Util.Ninject
         {
 
             Bind<IGroupService>().To<GroupService>();
+
+            Bind<ISubjectService>().To<SubjectService>();
+
+            Bind<ITeacherService>().To<TeacherService>();
+
+            Bind<IStudentsMarkService>().To<StudentsMarkService>();
             
-            Bind<IUnitOfWork>().To<UnitOfWork>().WithConstructorArgument("Proj1704");
+            Bind<IUnitOfWork>().To<UnitOfWork>().WithConstructorArgument("Univer");
         }
     }
 }

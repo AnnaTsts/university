@@ -29,7 +29,7 @@ namespace University
 
         private IUserService CreateUserService()
         {
-            return serviceCreator.CreateUserService("Proj1704");
+            return serviceCreator.CreateUserService("Univer");
         }
     }
 }

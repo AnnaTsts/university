@@ -1,12 +1,13 @@
 using System.Collections.Generic;
 using AutoMapper;
 using BLL.DTO;
+using BLL.Interfaces;
 using DAL.Entities;
 using DAL.Interfaces;
 
 namespace BLL.Services
 {
-    public class SubjectService
+    public class SubjectService : ISubjectService
     {
         IUnitOfWork db { get; set; }
 

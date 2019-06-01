@@ -25,10 +25,11 @@ namespace DAL.Entities
         [ForeignKey("ChairId")]
         public virtual Chair Chair { get; set; }
         
+
         public int GroupId  {get; set; }
         
-        [ForeignKey("GroupId")]
-        public virtual Group Group  {get; set; }
+       [ForeignKey("GroupId")]
+       public virtual Group Group  {get; set; }
         
         //public virtual List<StudentsMark> StudentsMarks  {get; set; }
 

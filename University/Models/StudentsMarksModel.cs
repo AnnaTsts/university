@@ -11,7 +11,7 @@ namespace University.Models
 
         public virtual UserModel Student { get; set; }
 
-        public string TeacherSubjectId { get; set; }
+        public int TeacherSubjectId { get; set; }
         
         public TeacherSubjectModel TeacherSubject{ get; set; }
         

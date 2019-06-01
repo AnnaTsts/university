@@ -11,7 +11,7 @@ namespace BLL.DTO
 
         public virtual UserDTO Student { get; set; }
 
-        public string TeacherSubjectId { get; set; }
+        public int TeacherSubjectId { get; set; }
         
         public TeacherSubjectDTO TeacherSubject{ get; set; }
         

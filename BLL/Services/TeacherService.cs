@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using AutoMapper;
 using BLL.DTO;
@@ -19,7 +20,18 @@ namespace BLL.Services
         
         public IEnumerable<TeacherSubjectDTO> GetAllSubjectByTeacher(string teacherId)
         {
+            Console.WriteLine(teacherId);
             var subjects = db.TeacherSubjects.Find((ts) => ts.TeacherId == teacherId);
+            Console.WriteLine("end");
+            Console.WriteLine(subjects.ToString());
+            return Mapper.Map<IEnumerable<TeacherSubject>, IEnumerable<TeacherSubjectDTO>>(subjects);
+        }
+        
+        public IEnumerable<TeacherSubjectDTO> GetAllSubject()
+        {
+
+            var subjects = db.TeacherSubjects.GetAll();
+            Console.WriteLine(subjects.ToString());
             return Mapper.Map<IEnumerable<TeacherSubject>, IEnumerable<TeacherSubjectDTO>>(subjects);
         }
 

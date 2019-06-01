@@ -7,15 +7,11 @@ namespace University.Models
     {
         public int Id { get; set; }
         
-        public int TeacherId { get; set; }
+        public string TeacherId { get; set; }
         
         public int SubjectId{ get; set; }
         
         public int GroupId{ get; set; }
-        
-        public DateTime StartTime { get; set; }
-
-        public DateTime EndTime { get; set; }
 
         public UserModel Teacher { get; set; }
 

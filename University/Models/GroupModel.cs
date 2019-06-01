@@ -16,6 +16,6 @@ namespace University.Models
         
         public virtual SpecializationModel Specialization { get; set; }
         
-        public virtual List<UserModel> Students  {get; set; }
+          public virtual List<UserModel> Students  {get; set; }
     }
 }
