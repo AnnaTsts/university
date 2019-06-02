@@ -12,24 +12,24 @@ namespace DAL.Entities
     public class ApplicationUser : IdentityUser
     {
 
-        [Required]
+
         public string FirstName { get; set; }
 
-        [Required]
+
         public string SecondName { get; set; }
         
         public string ImgSrc { get; set; }
 
         public int ChairId { get; set; }
         
-        [ForeignKey("ChairId")]
-        public virtual Chair Chair { get; set; }
+     //   [ForeignKey("ChairId")]
+     //   public virtual Chair Chair { get; set; }
         
 
         public int GroupId  {get; set; }
         
-       [ForeignKey("GroupId")]
-       public virtual Group Group  {get; set; }
+   //    [ForeignKey("GroupId")]
+     //  public virtual Group Group  {get; set; }
         
         //public virtual List<StudentsMark> StudentsMarks  {get; set; }
 

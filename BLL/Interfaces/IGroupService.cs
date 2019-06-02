@@ -13,7 +13,9 @@ namespace BLL.Interfaces
         IEnumerable<GroupDTO> GetGroupByFaculty(int facultyId);
 
         IEnumerable<GroupDTO> GetGroupBySpecialization(int specialization);
-        
-        
+
+        IEnumerable<GroupDTO> GetGroupByTeacher(string teacherId);
+
+        IEnumerable<GroupDTO> GetGroupByTeacherAndSubject(string teacherId, int subjectId);
     }
 }

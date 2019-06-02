@@ -47,7 +47,33 @@ namespace BLL.Services
             var groups = db.Groups.Find((gr) => gr.SpecializationId == specialization);
             return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
         }
+        
+        public IEnumerable<GroupDTO> GetGroupByTeacher(string teacherId)
+        {
+            List<Group> grs = new List<Group>();
+            var teacherSubject = db.TeacherSubjects.Find((ts) => ts.TeacherId == teacherId);
+            foreach (var ts in teacherSubject)
+            {
+                grs.Add(ts.Group);
+            }
 
+            var groups = grs;//db.Groups.Find((gr) => gr.SpecializationId == specialization);
+            return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
+        }
+
+        public IEnumerable<GroupDTO> GetGroupByTeacherAndSubject(string teacherId,int subjectId)
+        {
+            List<Group> grs = new List<Group>();
+            var teacherSubject = db.TeacherSubjects.Find((ts) => ts.TeacherId == teacherId);
+            foreach (var ts in teacherSubject)
+            {
+                if(ts.SubjectId==subjectId)
+                grs.Add(ts.Group);
+            }
+
+            var groups = grs;//db.Groups.Find((gr) => gr.SpecializationId == specialization);
+            return Mapper.Map<IEnumerable<Group>, IEnumerable<GroupDTO>>(groups);
+        }
 
     }
 }

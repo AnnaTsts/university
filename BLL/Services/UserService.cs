@@ -1,4 +1,5 @@
-﻿using BLL.DTO;
+﻿using System;
+using BLL.DTO;
 using BLL.Infrastructure;
 using BLL.Interfaces;
 using DAL.Entities;
@@ -24,11 +25,24 @@ namespace BLL.Services
             var user = await Database.UserManager.FindByEmailAsync(userDto.UserName);
             if (user == null)
             {
-                user = new ApplicationUser { Email = userDto.Email, UserName = userDto.UserName };
+                Console.WriteLine("flag");
+                user = new ApplicationUser { Email = userDto.Email, UserName = userDto.UserName ,FirstName = userDto.FirstName,SecondName = userDto.SecondName ,GroupId = 1,ChairId = 1};
+                Console.WriteLine("User was created");
+                Console.WriteLine(user.Id);
+                Console.WriteLine(user.Email);
+                Console.WriteLine(user.UserName);
+                Console.WriteLine(user.FirstName);
+                Console.WriteLine(user.SecondName);
+    
                 IdentityResult result = await Database.UserManager.CreateAsync(user, userDto.Password);
+                Console.WriteLine("Database:User was created");
+
                 if (result.Errors.Count() > 0)
+                {
+                    Console.WriteLine("WE ARE HERE");
                     return new IdentityOperations(false, result.Errors.FirstOrDefault(), "");
-                
+                }
+
                 await Database.SaveAsync();
                 return new IdentityOperations(true, "Registration successfully completed", "");
             }

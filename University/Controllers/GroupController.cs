@@ -5,6 +5,7 @@ using AutoMapper;
 using BLL.DTO;
 using BLL.Interfaces;
 using University.Models;
+using Microsoft.AspNet.Identity;
 
 namespace University.Controllers
 {
@@ -48,6 +49,43 @@ namespace University.Controllers
                 return InternalServerError(ex);
             }
             return Ok();
+        }
+        
+        [Route("Teacher")]
+        [HttpGet]
+        public IHttpActionResult GetAllGroupsByTeacher()
+        {
+            
+            IEnumerable<GroupDTO> groups;
+            try
+            {
+                groups = service.GetGroupByTeacher(User.Identity.GetUserId());
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+                
+            }
+            Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups);
+            return Ok(Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups));
+        }
+        
+        [HttpGet]
+        public IHttpActionResult GetAllGroupsByTeacherAndSubject([FromBody]string id,int subject)
+        {
+            
+            IEnumerable<GroupDTO> groups;
+            try
+            {
+                groups = service.GetGroupByTeacherAndSubject(id,subject);
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+                
+            }
+            Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups);
+            return Ok(Mapper.Map<IEnumerable<GroupDTO>, IEnumerable<GroupModel>>(groups));
         }
     }
 }

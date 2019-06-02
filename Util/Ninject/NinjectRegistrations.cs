@@ -23,6 +23,8 @@ namespace Util.Ninject
             Bind<ITeacherService>().To<TeacherService>();
 
             Bind<IStudentsMarkService>().To<StudentsMarkService>();
+
+            Bind<IChairService>().To<ChairService>();
             
             Bind<IUnitOfWork>().To<UnitOfWork>().WithConstructorArgument("Univer");
         }

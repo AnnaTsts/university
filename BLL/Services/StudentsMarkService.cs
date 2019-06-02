@@ -5,17 +5,22 @@ using BLL.DTO;
 using BLL.Interfaces;
 using DAL.Entities;
 using DAL.Interfaces;
+using DAL.Repositories;
 
 namespace BLL.Services
 {
     public class StudentsMarkService : IStudentsMarkService
     {
         IUnitOfWork db { get; set; }
-
+        // private IRepository<int,StudentsMark> sr;
+        
+        
         public StudentsMarkService(IUnitOfWork uow)
         {
             db = uow;
+        //    sr = uow.StudentsMarks;
         }
+        
         
         public IEnumerable<StudentsMarkDTO> GetAllMarks()
         {
@@ -60,12 +65,56 @@ namespace BLL.Services
             IEnumerable<StudentsMark> teacherMark = db.StudentsMarks.Find((sm) => sm.TeacherSubject.TeacherId == userId);
 
             var result = groupsMark.Intersect(teacherMark).Distinct();
+            
             return Mapper.Map<IEnumerable<StudentsMark>, IEnumerable<StudentsMarkDTO>>(result);
 
         }
-        
-        
-        
-        
+
+        public IEnumerable<IEnumerable<StudentsMarkDTO>> GetAllMarksByTeacherAndGroupSorted(string userId, int groupId)
+        {
+            IEnumerable<StudentsMarkDTO> marks = GetAllMarksByTeacherAndGroup(userId, groupId);
+            List<StudentsMarkDTO>markss= new List<StudentsMarkDTO>();
+            foreach (var mark in marks)
+            {
+                markss.Add(mark);
+            }
+            List<string> names = new List<string>();
+            foreach (var m in markss)
+            {
+                if(!(names.Contains(m.Student.FirstName+" "+m.Student.SecondName)))
+                    names.Add(m.Student.FirstName+" "+m.Student.SecondName);
+            }
+            
+            List<List<StudentsMarkDTO>> marksInList= new List<List<StudentsMarkDTO>>();
+            foreach (var m in markss)
+            {
+                if (names.Contains(m.Student.FirstName + " " + m.Student.SecondName))
+                {
+                    int id = names.FindIndex((st)=>st==m.Student.FirstName + " " + m.Student.SecondName);
+                    marksInList[id].Add(m);
+                }
+              
+            }
+
+            return marksInList;
+        }
+
+
+        public void Update(StudentsMarkDTO st)
+        {
+            StudentsMark newObj = Mapper.Map<StudentsMarkDTO, StudentsMark>(st);
+            if (newObj.Id == null)
+            {
+                db.StudentsMarks.Insert(newObj);
+            }
+            else
+            {
+                StudentsMark obj=  db.StudentsMarks.Get(newObj.Id);
+                obj.Mark = newObj.Mark;
+                obj.NameOfWork = newObj.NameOfWork;
+                db.Save();
+            }
+        }
     }
-}
+
+    }

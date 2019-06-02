@@ -7,13 +7,18 @@ using DAL.Interfaces;
 
 namespace DAL.Repositories
 {
-    public class TeacherSubjectRepository:IRepository<TeacherSubject,string>
+    public class TeacherSubjectRepository:IRepository<TeacherSubject,int>
     {
         private ApplicationDbContext db;
 
         public TeacherSubjectRepository(ApplicationDbContext context)
         {
             db = context;
+        }
+
+        public TeacherSubject Get(int id)
+        {
+            throw new NotImplementedException();
         }
 
         public IEnumerable<TeacherSubject> Find(Func<TeacherSubject, bool> predicate)

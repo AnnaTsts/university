@@ -19,5 +19,9 @@ namespace BLL.Interfaces
         IEnumerable<StudentsMarkDTO> GetAllMarksByStudent(string userId);
 
         IEnumerable<StudentsMarkDTO> GetAllMarksByTeacherAndGroup(string userId, int groupId);
+
+        IEnumerable<IEnumerable<StudentsMarkDTO>> GetAllMarksByTeacherAndGroupSorted(string userId, int groupId);
+
+        void Update(StudentsMarkDTO st);
     }
 }

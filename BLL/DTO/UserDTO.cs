@@ -18,11 +18,14 @@ namespace BLL.DTO
         
         public int ChairId { get; set; }
         
-        public virtual ChairDTO Chair { get; set; }
+    //    public virtual ChairDTO Chair { get; set; }
         
         public int GroupId  {get; set; }
 
       //  public virtual GroupDTO Group  {get; set; }
         
+      public string FirstName { get; set; }
+
+      public string SecondName { get; set; }
     }
 }

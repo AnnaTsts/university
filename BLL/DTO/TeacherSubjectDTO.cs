@@ -18,5 +18,7 @@ namespace BLL.DTO
         public GroupDTO Group { get; set; }
 
         public SubjectDTO Subject { get; set; }
+        
+        
     }
 }

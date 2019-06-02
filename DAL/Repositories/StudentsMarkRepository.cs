@@ -36,6 +36,29 @@ namespace DAL.Repositories
             db.StudentsMarks.Add(obj);
         }
         
+        public bool Update(int id, StudentsMark newObj)
+        {
+            StudentsMark oldStudMark = Get(id);
+
+            if (oldStudMark == null)
+            {
+                Insert(newObj);
+               // return false;
+            }
+
+            oldStudMark.Mark = newObj.Mark;
+            
+          //  oldStudMark = MapMark(oldStudMark, newObj);
+            return true;
+        }
+        
+        
+        private StudentsMark MapMark(StudentsMark oldMark, StudentsMark newMark)
+        {
+            oldMark.NameOfWork = newMark.NameOfWork;
+            oldMark.Mark = newMark.Mark;
+            return oldMark;
+        }
 
 
         

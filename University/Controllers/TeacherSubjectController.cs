@@ -5,8 +5,9 @@ using AutoMapper;
 using BLL.DTO;
 using BLL.Interfaces;
 using University.Models;
+using Microsoft.AspNet.Identity;
 
-namespace Textagram.Controllers
+namespace University.Controllers
 {
     [RoutePrefix("api/TeacherSubject")]
     public class TeacherSubjectController: ApiController
@@ -18,7 +19,7 @@ namespace Textagram.Controllers
             _service = serv;
         }
         
-        [Route("teachers")]
+        
         [HttpGet]
         public IHttpActionResult GetAll()
         {
@@ -43,15 +44,15 @@ namespace Textagram.Controllers
         
         
         
-        [Route("teacher/{id}")]
+        [Route("teacher")]
         [HttpGet]
-        public IHttpActionResult GetAllTeacherSubjects(string id)
+        public IHttpActionResult GetAllTeacherSubjects()
         {
-            Console.WriteLine("!!!!!!!!!!!!!!!!!!!!!!!");
+            
             IEnumerable<TeacherSubjectDTO> subject;
             try
             {
-                subject = _service.GetAllSubjectByTeacher(id);
+                subject = _service.GetAllSubjectByTeacher(User.Identity.GetUserId());
             }
             catch (Exception ex)
             {

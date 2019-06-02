@@ -23,8 +23,8 @@ namespace DAL.EF
             
             Subject subject =new Subject{Name = "Math"};
             
-            ApplicationUser teacher= new ApplicationUser{UserName = "teacher",FirstName = "Ivan",SecondName = "Ivanov",Chair = chair,Email = "iv@iv"};
-            ApplicationUser student= new ApplicationUser{UserName = "student",FirstName = "Petro",SecondName = "Petrov",Chair = chair,Email = "petr@petrov"};
+            ApplicationUser teacher= new ApplicationUser{UserName = "teacher",FirstName = "Ivan",SecondName = "Ivanov",Email = "iv@iv" ,PasswordHash = "123456"};
+            ApplicationUser student= new ApplicationUser{UserName = "student",FirstName = "Petro",SecondName = "Petrov",Email = "petr@petrov"};
 
 
             TeacherSubject tc = new TeacherSubject {TeacherId =teacher.Id,SubjectId = subject.Id,GroupId = group.Id,Teacher =teacher,Group = group,Subject = subject};

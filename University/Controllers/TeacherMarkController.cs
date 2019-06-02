@@ -52,19 +52,23 @@ namespace University.Controllers
             return Ok();
         }
         
-        public IHttpActionResult PostAll([FromBody]List<StudentsMarksModel> models)
+        public IHttpActionResult PostAll([FromBody]List<List<StudentsMarksModel>> models)
         {
-            foreach (var model in models)
-            {
-                model.TeacherSubject.TeacherId= User.Identity.GetUserId();
-            }
+            
+       
             
             try
             {
-                foreach (var model in models)
+                foreach (var listModels in models)
                 {
-                    _service.Insert(Mapper.Map<StudentsMarksModel,StudentsMarkDTO>(model));
+                    foreach (var model in listModels)
+                    {
+                        model.TeacherSubject.TeacherId= User.Identity.GetUserId();
+                        _service.Update(Mapper.Map<StudentsMarksModel,StudentsMarkDTO>(model));
+                    }
+                
                 }
+             
                 
             }
             catch (Exception ex)
@@ -74,6 +78,23 @@ namespace University.Controllers
             return Ok();
         }
         
+        [HttpGet]
+        [Route("TeacherSubject/{id}")]
+        public IHttpActionResult GetAllMarksByTeacherSubjectGroup(int id)
+        {
+            IEnumerable<IEnumerable<StudentsMarkDTO>> marks;
+            try
+            {
+                marks = _service.GetAllMarksByTeacherAndGroupSorted(User.Identity.GetUserId(),id);
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+                
+            }
+            Mapper.Map <IEnumerable<IEnumerable<StudentsMarkDTO>>,IEnumerable<IEnumerable<StudentsMarksModel>>>(marks);
+            return Ok(Mapper.Map<IEnumerable<IEnumerable<StudentsMarkDTO>>,IEnumerable<IEnumerable<StudentsMarksModel>>>(marks));
+        }
         
     }
 }
