@@ -58,6 +58,7 @@
     <Compile Include="DTO\SpecializationDTO.cs" />
     <Compile Include="DTO\StudentsMarkDTO.cs" />
     <Compile Include="DTO\SubjectDTO.cs" />
+    <Compile Include="DTO\SummaryInfo.cs" />
     <Compile Include="DTO\TeacherSubjectDTO.cs" />
     <Compile Include="DTO\UserDTO.cs" />
     <Compile Include="Infrastructure\IdentityOperations.cs" />

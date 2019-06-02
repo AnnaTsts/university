@@ -13,6 +13,6 @@ namespace BLL.Interfaces
         Task<IdentityOperations> CreateUserAsync(UserDTO userDto);
 
         Task<ApplicationUser> FindUserAsync(string userName, string password);
-
+        void GetSumm(SummaryInfo sum, string uname);
     }
 }

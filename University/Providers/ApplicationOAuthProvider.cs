@@ -24,15 +24,23 @@ namespace University.Providers
                 }
 
                 var identity = new ClaimsIdentity(context.Options.AuthenticationType);
-                identity.AddClaim(new Claim("Id", user.Id));
+                identity.AddClaim(new Claim("id", user.Id));
+                identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.Id));
+                identity.AddClaim(new Claim("username", user.UserName));
+                identity.AddClaim(new Claim("email", user.Email));
+
+                
 
                 var additionalData = new AuthenticationProperties(new Dictionary<string, string>
-            {
-                { "Id", user.Id },
-            });
+                {
+                    {"id", user.Id},
+                    {"username", user.UserName},
+                    {"email", user.Email}
+                });
 
                 AuthenticationTicket ticket = new AuthenticationTicket(identity, additionalData);
                 context.Validated(ticket);
+                
             }
             catch (Exception)
             {

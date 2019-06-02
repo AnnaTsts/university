@@ -64,6 +64,36 @@ namespace BLL.Services
         {
             Database.Dispose();
         }
+
+        public async void GetSumm(SummaryInfo sum , string uname)
+        {
+            var user = Database.UserManager.FindByNameAsync(uname);
+            ApplicationUser applicationUser = user.Result; 
+            //sum.Id = user.Id;
+            if (applicationUser != null)
+            {
+                sum.FirstName = applicationUser.FirstName;
+                sum.SecondName = applicationUser.SecondName;
+                sum.ChairId = applicationUser.ChairId;
+                sum.GroupId = applicationUser.GroupId;
+                sum.Email = applicationUser.Email;
+                
+                Group g = Database.Groups.Get(sum.GroupId);
+                if (g != null)
+                {
+                    sum.GroupName = g.Name;
+                    sum.SpecializationName = g.Specialization.Name;
+                    sum.FacultyName = g.Faculty.Name;
+                }
+
+                Chair c = Database.Chairs.Get(sum.ChairId);
+                if(c!=null)
+                    sum.ChairName = c.Name;
+            }
+            
+        }
+        
+        
     }
 }
 

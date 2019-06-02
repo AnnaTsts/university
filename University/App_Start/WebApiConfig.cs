@@ -23,7 +23,7 @@ namespace University
             
             //var cors = new EnableCorsAttribute("*", "*", "*");
             //config.EnableCors(cors);
-            config.EnableCors();
+            //config.EnableCors();
             // Маршруты Web API
             config.MapHttpAttributeRoutes();
             

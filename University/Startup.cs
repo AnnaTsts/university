@@ -5,6 +5,7 @@ using Microsoft.Owin;
 using Owin;
 using System.Web.Http.Cors;
 using System.Threading.Tasks;
+using Microsoft.Owin.Cors;
 
 [assembly: OwinStartup(typeof(University.Startup))]
 
@@ -14,7 +15,8 @@ namespace University
     {
         public void Configuration(IAppBuilder app)
         {
-            app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
+            
+            app.UseCors(CorsOptions.AllowAll);
             ConfigureAuth(app);
             
         }

@@ -16,6 +16,8 @@ namespace Util.Ninject
         public override void Load()
         {
 
+            Bind<IUserService>().To<UserService>();    
+            
             Bind<IGroupService>().To<GroupService>();
 
             Bind<ISubjectService>().To<SubjectService>();
